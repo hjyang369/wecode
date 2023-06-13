@@ -1,10 +1,8 @@
-//import "../../styles/reset.css";
-import "../../styles/common.css";
-import "./Main.css";
+import "./Main.scss";
 
 function Main() {
   return (
-    <div>
+    <div className="main">
       <nav>
         <div className="logo">
           <img alt="instaimg" src="./images/instagram.png" />

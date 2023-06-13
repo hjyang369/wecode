@@ -1,0 +1,31 @@
+.weightbolder {
+  font-weight: bolder;
+}
+.gray {
+  color: #a7a7a7;
+}
+.blue {
+  color: #68a2ec;
+}
+button {
+  cursor: pointer;
+}
+
+.pTag {
+  display: flex;
+  flex-direction: column;
+
+  padding: 7px;
+  width: 160px;
+  height: 45px;
+  overflow: hidden;
+}
+.pTag p {
+  margin: 0px;
+  text-align: left;
+}
+
+.letter {
+  display: flex;
+  justify-content: space-between;
+}
